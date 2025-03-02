@@ -1,2 +1,2 @@
 # Portfolio Overview
-Outline of how to create a basic Whitespace Report
+Here is a list of some projects that I have worked on.
